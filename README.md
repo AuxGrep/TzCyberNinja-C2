@@ -1,6 +1,7 @@
 # ⚔️ TzCyberNinja-C2
 
 > A Command-and-Control (C2) payload management framework for **educational and authorized penetration testing** only.
+![2AEC9778-3D35-4110-A1FE-F85CA19FEB5D](https://github.com/user-attachments/assets/2c9d0c9a-5bb6-4bbc-b3d6-3bd3a0d2afb2)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
