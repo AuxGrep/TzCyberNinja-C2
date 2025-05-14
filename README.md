@@ -3,7 +3,7 @@
 > A Command-and-Control (C2) payload management framework for **educational and authorized penetration testing** only.
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
 
 ---
