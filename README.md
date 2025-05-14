@@ -4,7 +4,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey)
-![Target](https://img.shields.io/badge/platform-Windows-OS-lightgrey)
+![Target](https://img.shields.io/badge/platform-Windows-lightgrey)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen)
 
 ---
