@@ -55,9 +55,10 @@ git clone https://github.com/yourusername/TzCyberNinja-C2.git
 cd TzCyberNinja-C2
 pip3 install -r requirements.txt
 
+
+
+# MORE USAGE
 READ MORE HOW TO CONFIGURE AND USE: https://github.com/AuxGrep/TzCyberNinja-C2/wiki/TzCyberNinja%E2%80%90C2
-
-
 
 
 
