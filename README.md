@@ -127,6 +127,10 @@ pip3 install -r requirements.txt
 # Verify installation
 python3 --version
 pip3 list | grep -E "required-package-1|required-package-2"
+
+# install Mingw-w4
+sudo apt update
+sudo apt install mingw-w64
 ```
 
 ### Basic Usage
@@ -136,6 +140,10 @@ python3 server2.py
 
 # Build payload
 python3 buildPayload.py
+
+# install Mingw-w4
+sudo apt update
+sudo apt install mingw-w64
 ```
 
 ## 📚 Documentation
