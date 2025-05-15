@@ -140,10 +140,6 @@ python3 server2.py
 
 # Build payload
 python3 buildPayload.py
-
-# install Mingw-w4
-sudo apt update
-sudo apt install mingw-w64
 ```
 
 ## 📚 Documentation
